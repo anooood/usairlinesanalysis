@@ -1,0 +1,16 @@
+Route,Price 1,Price 2,Price 3,Price 4,Price 5,Price 6,Price 7,Price 8,Price 9
+JFK to LAX,United Airlines: $230,JetBlue: $243,American Airlines: $269
+LGA to ORD,United Airlines: $84,Delta: $84,American Airlines: $94
+ATL to MCO,Frontier: $43,Spirit Airlines: $59,Delta: $109
+ATL to FLL,Spirit Airlines: $40,Frontier: $41,Delta: $49
+DEN to PHX,Frontier: $111,United Airlines: $141,American Airlines: $192
+LAX to SFO,JetBlue: $44,United Airlines: $59,Alaska Airlines: $64,Delta: $79,American Airlines: $94
+LAS to LAX,Spirit Airlines: $40,JetBlue: $44,Alaska Airlines: $44,Delta: $49,American Airlines: $94,United Airlines: $114
+LGA to MIA,Spirit Airlines: $28,Delta: $74,American Airlines: $94
+JFK to MIA,Delta: $74,JetBlue: $74,American Airlines: $94
+HNL to LAX,United Airlines: $289,Alaska Airlines: $319,Hawaiian Airlines: $325,Delta: $360,American Airlines: $559
+DEN to LAS,Frontier: $39,Spirit Airlines: $40,United Airlines: $173
+HNL to SFO,Hawaiian Airlines: $215,United Airlines: $217,Alaska Airlines: $279
+EWR to MCO,Spirit Airlines: $59,United Airlines: $129
+ATL to LGA,Frontier: $54,Delta: $129,American Airlines: $149,JetBlue: $149
+DEN to LAX,Delta: $139,United Airlines: $159,American Airlines: $260
